@@ -14,6 +14,7 @@ public class Main {
         int b = scanner.nextInt();
 
 
+
         Func func =(int x, int y, char symb) ->{
             switch (symb){
                 case '+':
